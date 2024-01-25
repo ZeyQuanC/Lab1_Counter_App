@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lab1 Counter App</string>
+    <string name="Counter">0</string>
+    <string name="Clicker">Add one</string>
+    <string name="upgrade_to_add_2">Upgrade to Add 2</string>
+    <string name="upgrade_to_add_5">upgrade to add 5</string>
+</resources>
